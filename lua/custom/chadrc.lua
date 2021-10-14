@@ -43,7 +43,7 @@ M.options = {
 M.ui = {
    italic_comments = false,
    -- theme to be used, check available themes with `<leader> + t + h`
-   theme = "onedark",
+   theme = "doom-chad",
    -- toggle between two themes, see theme_toggler mappings
    theme_toggler = {
       "onedark",
